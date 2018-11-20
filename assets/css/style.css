@@ -1,0 +1,8 @@
+
+/* home page  */
+.jumbotron {
+    background-image: url("../images/home1.jpg") ;
+    background-size: cover;
+    color: #fff;
+    padding: 5em inherit;
+}
